@@ -17,7 +17,7 @@
     },
     "autoload": {
         "psr-4": {
-            "korytek\\file-behavior\\": ""
+            "korytek\\logablebehavior\\": ""
         }
     }
 }
