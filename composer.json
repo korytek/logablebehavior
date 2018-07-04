@@ -1,0 +1,23 @@
+{
+    "name": "korytek/yii2-logablebehavior",
+    "description": "yii2 behavior for manage attach and manage files",
+    "keywords": ["yii2", "log", "yii2-logablebehavior", "behavior"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+
+    "authors": [
+        {
+            "name": "Marcin Korytkowski",
+            "email": "marcin@koryto.pl"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "korytek\\file-behavior\\": ""
+        }
+    }
+}
